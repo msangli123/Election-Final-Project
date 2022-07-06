@@ -1,0 +1,985 @@
+fips,total_deaths,covid_deaths,urban_rural_desc,pct_covid_deaths,county,state
+2020,4738,516,Medium metro,0.10890671169269735,Anchorage Municipality,Alaska
+2090,1135,140,Small metro,0.12334801762114538,Fairbanks North Star Borough,Alaska
+2170,1369,159,Medium metro,0.11614317019722425,Matanuska-Susitna Borough,Alaska
+1001,1033,130,Medium metro,0.12584704743465633,Autauga,Alabama
+1003,4790,520,Small metro,0.10855949895615867,Baldwin,Alabama
+1015,3351,494,Small metro,0.14741868099074903,Calhoun,Alabama
+1031,1105,158,Micropolitan,0.1429864253393665,Coffee,Alabama
+1033,1487,249,Small metro,0.16745124411566914,Colbert,Alabama
+1039,1188,195,Noncore,0.16414141414141414,Covington,Alabama
+1043,2333,320,Micropolitan,0.13716245177882555,Cullman,Alabama
+1045,939,108,Micropolitan,0.11501597444089456,Dale,Alabama
+1047,1044,159,Micropolitan,0.15229885057471265,Dallas,Alabama
+1049,1530,165,Noncore,0.10784313725490197,DeKalb,Alabama
+1053,875,121,Noncore,0.1382857142857143,Escambia,Alabama
+1055,3500,563,Small metro,0.16085714285714287,Etowah,Alabama
+1069,4371,849,Small metro,0.19423472889498972,Houston,Alabama
+1071,1337,123,Micropolitan,0.09199700822737472,Jackson,Alabama
+1073,22289,3050,Large central metro,0.13683879940777963,Jefferson,Alabama
+1077,3055,382,Small metro,0.12504091653027824,Lauderdale,Alabama
+1081,2713,439,Small metro,0.1618134906008109,Lee,Alabama
+1083,1742,171,Medium metro,0.09816303099885189,Limestone,Alabama
+1089,9068,1031,Medium metro,0.11369651521835024,Madison,Alabama
+1095,2636,312,Micropolitan,0.11836115326251896,Marshall,Alabama
+1097,11787,1587,Medium metro,0.13463985747009416,Mobile,Alabama
+1101,6919,1200,Medium metro,0.17343546755311462,Montgomery,Alabama
+1103,2905,348,Small metro,0.11979345955249569,Morgan,Alabama
+1115,1672,151,Large fringe metro,0.090311004784689,St. Clair,Alabama
+1117,2906,256,Large fringe metro,0.088093599449415,Shelby,Alabama
+1121,1929,225,Micropolitan,0.1166407465007776,Talladega,Alabama
+1123,1146,144,Noncore,0.1256544502617801,Tallapoosa,Alabama
+1125,5135,853,Small metro,0.16611489776046737,Tuscaloosa,Alabama
+1127,2106,283,Large fringe metro,0.13437796771130103,Walker,Alabama
+5005,1976,287,Micropolitan,0.14524291497975708,Baxter,Arkansas
+5007,4324,722,Medium metro,0.1669750231267345,Benton,Arkansas
+5009,938,114,Micropolitan,0.12153518123667377,Boone,Arkansas
+5031,4734,831,Small metro,0.17553865652724968,Craighead,Arkansas
+5045,2407,343,Medium metro,0.14250103863730784,Faulkner,Arkansas
+5051,4010,587,Small metro,0.14638403990024937,Garland,Arkansas
+5063,1289,248,Micropolitan,0.19239720713731576,Independence,Arkansas
+5069,1851,244,Small metro,0.1318206374932469,Jefferson,Arkansas
+5115,1375,115,Micropolitan,0.08363636363636363,Pope,Arkansas
+5119,14379,1894,Medium metro,0.13171986925377285,Pulaski,Arkansas
+5125,2071,199,Medium metro,0.09608884596813133,Saline,Arkansas
+5131,5061,806,Medium metro,0.15925706382137916,Sebastian,Arkansas
+5139,1137,128,Micropolitan,0.11257695690413369,Union,Arkansas
+5143,5144,683,Medium metro,0.1327760497667185,Washington,Arkansas
+5145,2120,267,Micropolitan,0.1259433962264151,White,Arkansas
+4001,1153,135,Noncore,0.1170858629661752,Apache,Arizona
+4003,2338,192,Small metro,0.08212147134302823,Cochise,Arizona
+4005,2586,346,Small metro,0.13379737045630316,Coconino,Arizona
+4007,1492,159,Micropolitan,0.10656836461126006,Gila,Arizona
+4013,89332,13645,Large central metro,0.1527448170868222,Maricopa,Arizona
+4015,7542,912,Small metro,0.12092283214001591,Mohave,Arizona
+4017,2269,287,Micropolitan,0.12648743940061702,Navajo,Arizona
+4019,25972,3419,Medium metro,0.1316417680579085,Pima,Arizona
+4021,5645,506,Large fringe metro,0.08963684676705048,Pinal,Arizona
+4025,6871,697,Small metro,0.10144083830592344,Yavapai,Arizona
+4027,4320,855,Small metro,0.19791666666666666,Yuma,Arizona
+6001,21906,1731,Large central metro,0.07901944672692413,Alameda,California
+6007,4834,496,Small metro,0.10260653702937526,Butte,California
+6013,16540,1024,Large fringe metro,0.06191051995163241,Contra Costa,California
+6017,2894,157,Large fringe metro,0.05425017277125086,El Dorado,California
+6019,17851,2422,Medium metro,0.1356786734636715,Fresno,California
+6023,2669,115,Micropolitan,0.043087298613713,Humboldt,California
+6025,2708,645,Small metro,0.23818316100443132,Imperial,California
+6029,14655,1989,Medium metro,0.13572159672466735,Kern,California
+6031,2208,471,Small metro,0.21331521739130435,Kings,California
+6037,158179,25595,Large central metro,0.16181035409251543,Los Angeles,California
+6039,2084,292,Small metro,0.1401151631477927,Madera,California
+6041,4163,228,Large fringe metro,0.05476819601249099,Marin,California
+6047,3308,434,Medium metro,0.13119709794437726,Merced,California
+6053,5766,618,Medium metro,0.10718002081165452,Monterey,California
+6055,2556,127,Small metro,0.04968701095461659,Napa,California
+6057,2060,131,Micropolitan,0.06359223300970873,Nevada,California
+6059,48506,6740,Large central metro,0.1389518822413722,Orange,California
+6061,8506,781,Large fringe metro,0.09181754055960499,Placer,California
+6065,40913,6330,Large central metro,0.15471854911641778,Riverside,California
+6067,27065,2457,Large central metro,0.0907814520598559,Sacramento,California
+6071,37820,6677,Large fringe metro,0.1765468006345849,San Bernardino,California
+6073,50570,5321,Large central metro,0.10522048645441962,San Diego,California
+6075,12991,640,Large central metro,0.04926487568316527,San Francisco,California
+6077,12936,1883,Medium metro,0.14556277056277056,San Joaquin,California
+6079,4705,324,Medium metro,0.06886291179596174,San Luis Obispo,California
+6081,9594,665,Large fringe metro,0.06931415468000834,San Mateo,California
+6083,7082,652,Medium metro,0.09206438859079356,Santa Barbara,California
+6085,23404,2101,Large central metro,0.0897709793197744,Santa Clara,California
+6087,3626,296,Medium metro,0.08163265306122448,Santa Cruz,California
+6089,5352,526,Small metro,0.09828101644245142,Shasta,California
+6095,7327,575,Medium metro,0.07847686638460488,Solano,California
+6097,8723,529,Medium metro,0.06064427375902786,Sonoma,California
+6099,12034,1989,Medium metro,0.16528170184477314,Stanislaus,California
+6103,1256,135,Micropolitan,0.10748407643312102,Tehama,California
+6107,7349,1238,Medium metro,0.16845829364539394,Tulare,California
+6109,1431,154,Micropolitan,0.10761705101327743,Tuolumne,California
+6111,12647,1263,Medium metro,0.09986558077014311,Ventura,California
+6113,2466,218,Large fringe metro,0.08840227088402271,Yolo,California
+6115,1714,214,Small metro,0.12485414235705951,Yuba,California
+8001,8484,1172,Large fringe metro,0.13814238566713813,Adams,Colorado
+8005,9604,1054,Large fringe metro,0.10974593919200333,Arapahoe,Colorado
+8013,5052,499,Medium metro,0.09877276326207443,Boulder,Colorado
+8031,10815,1015,Large central metro,0.09385113268608414,Denver,Colorado
+8035,3837,433,Large fringe metro,0.11284857961949439,Douglas,Colorado
+8041,12142,1519,Medium metro,0.12510294844341954,El Paso,Colorado
+8059,10396,1045,Large fringe metro,0.10051943055021162,Jefferson,Colorado
+8067,919,101,Micropolitan,0.10990206746463548,La Plata,Colorado
+8069,5835,542,Medium metro,0.09288774635818338,Larimer,Colorado
+8077,4139,514,Small metro,0.12418458564870742,Mesa,Colorado
+8085,945,124,Micropolitan,0.1312169312169312,Montrose,Colorado
+8101,4748,645,Small metro,0.13584667228306654,Pueblo,Colorado
+8123,3815,459,Medium metro,0.12031454783748362,Weld,Colorado
+9001,15270,2409,Medium metro,0.15776031434184676,Fairfield,Connecticut
+9003,19129,2767,Large central metro,0.144649485075017,Hartford,Connecticut
+9005,3030,252,Micropolitan,0.08316831683168317,Litchfield,Connecticut
+9007,2951,405,Large fringe metro,0.13724161301253812,Middlesex,Connecticut
+9009,18319,2388,Medium metro,0.1303564605054861,New Haven,Connecticut
+9011,4955,484,Medium metro,0.09767911200807265,New London,Connecticut
+9013,1468,104,Large fringe metro,0.07084468664850137,Tolland,Connecticut
+9015,1868,159,Medium metro,0.08511777301927195,Windham,Connecticut
+11001,13800,1636,Large central metro,0.11855072463768115,District of Columbia,District of Columbia
+10001,4074,416,Small metro,0.10211094747177221,Kent,Delaware
+10003,11505,1128,Large fringe metro,0.09804432855280312,New Castle,Delaware
+10005,5498,642,Medium metro,0.11676973444889051,Sussex,Delaware
+12001,8291,1251,Medium metro,0.15088650343746232,Alachua,Florida
+12005,4764,721,Small metro,0.15134340890008396,Bay,Florida
+12009,16795,1716,Medium metro,0.10217326585293242,Brevard,Florida
+12011,35472,4912,Large fringe metro,0.13847541723049164,Broward,Florida
+12015,6359,595,Small metro,0.09356817109608428,Charlotte,Florida
+12017,6091,692,Small metro,0.11361024462321458,Citrus,Florida
+12019,5268,748,Large fringe metro,0.1419893697798026,Clay,Florida
+12021,8347,954,Medium metro,0.11429256020126992,Collier,Florida
+12023,2339,328,Micropolitan,0.14023086789226166,Columbia,Florida
+12031,23854,3335,Large central metro,0.13980883709231157,Duval,Florida
+12033,10972,1430,Medium metro,0.13033175355450238,Escambia,Florida
+12035,3163,275,Medium metro,0.0869427758457161,Flagler,Florida
+12053,6571,866,Large fringe metro,0.13179120377415918,Hernando,Florida
+12055,4064,560,Small metro,0.13779527559055119,Highlands,Florida
+12057,27939,3209,Large central metro,0.11485736783707362,Hillsborough,Florida
+12061,4858,471,Small metro,0.0969534787978592,Indian River,Florida
+12063,1214,147,Noncore,0.12108731466227347,Jackson,Florida
+12069,9770,1151,Large fringe metro,0.11780962128966223,Lake,Florida
+12071,17236,1757,Medium metro,0.10193780459503365,Lee,Florida
+12073,6949,1020,Medium metro,0.1467837098863146,Leon,Florida
+12081,9881,1134,Medium metro,0.11476571197247243,Manatee,Florida
+12083,12159,1630,Medium metro,0.13405707706225842,Marion,Florida
+12085,4611,603,Medium metro,0.13077423552374756,Martin,Florida
+12086,50955,8381,Large central metro,0.16447846138749878,Miami-Dade,Florida
+12091,4507,556,Small metro,0.12336365653428001,Okaloosa,Florida
+12093,937,116,Micropolitan,0.12379935965848453,Okeechobee,Florida
+12095,23238,2782,Large central metro,0.11971770376108098,Orange,Florida
+12097,6222,979,Large fringe metro,0.15734490517518482,Osceola,Florida
+12099,35061,4398,Large fringe metro,0.12543852143407205,Palm Beach,Florida
+12101,14256,1477,Large fringe metro,0.10360549943883277,Pasco,Florida
+12103,27891,2598,Large central metro,0.09314832741744648,Pinellas,Florida
+12105,16579,2212,Medium metro,0.13342179866095663,Polk,Florida
+12107,1982,249,Micropolitan,0.12563067608476286,Putnam,Florida
+12109,3766,244,Large fringe metro,0.0647902283590016,St. Johns,Florida
+12111,7635,768,Medium metro,0.1005893909626719,St. Lucie,Florida
+12113,2579,264,Medium metro,0.10236525785188057,Santa Rosa,Florida
+12115,13447,1482,Medium metro,0.11021045586376144,Sarasota,Florida
+12117,7564,698,Large fringe metro,0.09227921734531994,Seminole,Florida
+12119,5035,465,Small metro,0.09235352532274081,Sumter,Florida
+12127,16909,1623,Medium metro,0.0959843870128334,Volusia,Florida
+12131,1455,165,Small metro,0.1134020618556701,Walton,Florida
+13009,1047,175,Micropolitan,0.16714422158548234,Baldwin,Georgia
+13015,2297,270,Large fringe metro,0.1175446234218546,Bartow,Georgia
+13021,6457,1008,Small metro,0.15610964844354963,Bibb,Georgia
+13031,1534,234,Micropolitan,0.15254237288135594,Bulloch,Georgia
+13045,3042,518,Large fringe metro,0.1702827087442472,Carroll,Georgia
+13051,8166,1098,Medium metro,0.13445995591476856,Chatham,Georgia
+13057,3208,341,Large fringe metro,0.10629675810473815,Cherokee,Georgia
+13059,3749,608,Small metro,0.16217658042144573,Clarke,Georgia
+13063,3017,295,Large fringe metro,0.0977792509115015,Clayton,Georgia
+13067,12238,1383,Large fringe metro,0.11300866154600425,Cobb,Georgia
+13069,947,207,Micropolitan,0.21858500527983105,Coffee,Georgia
+13071,1166,182,Micropolitan,0.15608919382504288,Colquitt,Georgia
+13077,2537,364,Large fringe metro,0.1434765471028774,Coweta,Georgia
+13081,734,134,Micropolitan,0.18256130790190736,Crisp,Georgia
+13089,10974,985,Large fringe metro,0.08975760889374886,DeKalb,Georgia
+13091,501,120,Noncore,0.23952095808383234,Dodge,Georgia
+13095,3109,591,Small metro,0.19009327758121583,Dougherty,Georgia
+13097,1695,187,Large fringe metro,0.11032448377581121,Douglas,Georgia
+13107,552,101,Noncore,0.18297101449275363,Emanuel,Georgia
+13113,2474,419,Large fringe metro,0.16936135812449474,Fayette,Georgia
+13115,3963,713,Small metro,0.1799142064092859,Floyd,Georgia
+13117,3559,401,Large fringe metro,0.11267209890418657,Forsyth,Georgia
+13121,20240,2332,Large central metro,0.11521739130434783,Fulton,Georgia
+13127,2561,428,Small metro,0.1671222178836392,Glynn,Georgia
+13129,1250,210,Micropolitan,0.168,Gordon,Georgia
+13135,9481,1139,Large fringe metro,0.12013500685581689,Gwinnett,Georgia
+13137,825,103,Micropolitan,0.12484848484848485,Habersham,Georgia
+13139,6480,1279,Small metro,0.19737654320987655,Hall,Georgia
+13151,4313,578,Large fringe metro,0.13401344771620682,Henry,Georgia
+13153,3023,404,Small metro,0.1336420774065498,Houston,Georgia
+13175,1789,309,Micropolitan,0.1727221911682504,Laurens,Georgia
+13185,2731,485,Small metro,0.1775906261442695,Lowndes,Georgia
+13215,6400,1024,Medium metro,0.16,Muscogee,Georgia
+13217,1714,247,Large fringe metro,0.1441073512252042,Newton,Georgia
+13223,1700,216,Large fringe metro,0.12705882352941175,Paulding,Georgia
+13227,899,152,Large fringe metro,0.16907675194660735,Pickens,Georgia
+13245,8780,1629,Medium metro,0.18553530751708427,Richmond,Georgia
+13247,1823,251,Large fringe metro,0.13768513439385627,Rockdale,Georgia
+13255,2628,397,Large fringe metro,0.1510654490106545,Spalding,Georgia
+13261,797,121,Micropolitan,0.15181932245922208,Sumter,Georgia
+13275,1613,262,Micropolitan,0.1624302541847489,Thomas,Georgia
+13277,1426,319,Micropolitan,0.22370266479663395,Tift,Georgia
+13279,1158,222,Micropolitan,0.19170984455958548,Toombs,Georgia
+13285,1930,347,Micropolitan,0.17979274611398963,Troup,Georgia
+13291,734,111,Noncore,0.15122615803814715,Union,Georgia
+13293,1229,261,Micropolitan,0.21236777868185516,Upson,Georgia
+13297,1971,268,Large fringe metro,0.13597158802638254,Walton,Georgia
+13299,1402,287,Micropolitan,0.20470756062767476,Ware,Georgia
+13305,802,153,Micropolitan,0.19077306733167082,Wayne,Georgia
+13313,2090,343,Small metro,0.16411483253588516,Whitfield,Georgia
+15001,3604,145,Micropolitan,0.0402330743618202,Hawaii,Hawaii
+15003,16641,785,Medium metro,0.04717264587464696,Honolulu,Hawaii
+15009,2500,103,Small metro,0.0412,Maui,Hawaii
+19013,3123,465,Small metro,0.148895292987512,Black Hawk,Iowa
+19033,1567,225,Micropolitan,0.14358647096362476,Cerro Gordo,Iowa
+19045,987,116,Micropolitan,0.11752786220871327,Clinton,Iowa
+19057,1100,124,Micropolitan,0.11272727272727273,Des Moines,Iowa
+19061,2098,295,Small metro,0.1406101048617731,Dubuque,Iowa
+19103,4061,462,Small metro,0.11376508249199704,Johnson,Iowa
+19113,4357,523,Medium metro,0.12003672251549231,Linn,Iowa
+19153,10615,1303,Medium metro,0.12275082430522845,Polk,Iowa
+19155,2051,242,Medium metro,0.11799122379327158,Pottawattamie,Iowa
+19163,3911,358,Medium metro,0.09153669138327794,Scott,Iowa
+19169,1317,117,Small metro,0.0888382687927107,Story,Iowa
+19179,747,101,Micropolitan,0.13520749665327977,Wapello,Iowa
+19187,1124,163,Micropolitan,0.14501779359430605,Webster,Iowa
+19193,2740,444,Small metro,0.16204379562043797,Woodbury,Iowa
+16001,9050,1293,Medium metro,0.1428729281767956,Ada,Idaho
+16005,1820,244,Small metro,0.13406593406593406,Bannock,Idaho
+16019,2677,383,Small metro,0.14307060141949943,Bonneville,Idaho
+16027,3483,515,Medium metro,0.14786103933390754,Canyon,Idaho
+16055,3995,531,Small metro,0.13291614518147685,Kootenai,Idaho
+16069,1189,112,Small metro,0.0941968040370059,Nez Perce,Idaho
+16083,2126,363,Micropolitan,0.17074317968015051,Twin Falls,Idaho
+17001,2166,307,Micropolitan,0.141735918744229,Adams,Illinois
+17019,4101,461,Small metro,0.11241160692514021,Champaign,Illinois
+17029,1254,160,Micropolitan,0.12759170653907495,Coles,Illinois
+17031,94961,11800,Large central metro,0.12426153894756795,Cook,Illinois
+17037,1645,154,Large fringe metro,0.09361702127659574,DeKalb,Illinois
+17043,15031,1372,Large fringe metro,0.0912780254141441,DuPage,Illinois
+17063,896,105,Large fringe metro,0.1171875,Grundy,Illinois
+17077,1347,202,Small metro,0.14996288047512993,Jackson,Illinois
+17081,1224,199,Micropolitan,0.16258169934640523,Jefferson,Illinois
+17089,7605,903,Large fringe metro,0.11873767258382643,Kane,Illinois
+17091,2663,275,Small metro,0.10326699211415696,Kankakee,Illinois
+17095,1375,187,Micropolitan,0.136,Knox,Illinois
+17097,11219,987,Large fringe metro,0.08797575541492111,Lake,Illinois
+17099,2185,221,Micropolitan,0.1011441647597254,LaSalle,Illinois
+17111,3562,263,Large fringe metro,0.0738349241998877,McHenry,Illinois
+17113,2888,350,Small metro,0.12119113573407202,McLean,Illinois
+17115,2723,296,Small metro,0.10870363569592362,Macon,Illinois
+17119,5688,586,Large fringe metro,0.1030239099859353,Madison,Illinois
+17121,1004,110,Micropolitan,0.10956175298804781,Marion,Illinois
+17137,830,113,Micropolitan,0.13614457831325302,Morgan,Illinois
+17143,6593,900,Medium metro,0.13650841801911118,Peoria,Illinois
+17161,3320,389,Medium metro,0.11716867469879517,Rock Island,Illinois
+17163,5344,619,Large fringe metro,0.1158308383233533,St. Clair,Illinois
+17167,5650,555,Small metro,0.09823008849557523,Sangamon,Illinois
+17177,1180,128,Micropolitan,0.10847457627118644,Stephenson,Illinois
+17179,2165,151,Medium metro,0.0697459584295612,Tazewell,Illinois
+17183,1737,148,Small metro,0.08520437535981577,Vermilion,Illinois
+17195,1389,208,Micropolitan,0.14974802015838734,Whiteside,Illinois
+17197,9817,989,Large fringe metro,0.10074360802689213,Will,Illinois
+17199,1906,230,Small metro,0.12067156348373557,Williamson,Illinois
+17201,7294,749,Medium metro,0.10268714011516315,Winnebago,Illinois
+18003,10255,1453,Medium metro,0.1416869819600195,Allen,Indiana
+18005,1913,255,Small metro,0.13329848405645583,Bartholomew,Indiana
+18011,1022,123,Large fringe metro,0.12035225048923678,Boone,Indiana
+18019,2285,236,Large fringe metro,0.10328227571115974,Clark,Indiana
+18029,906,114,Large fringe metro,0.12582781456953643,Dearborn,Indiana
+18035,3362,408,Small metro,0.12135633551457466,Delaware,Indiana
+18037,1084,140,Micropolitan,0.12915129151291513,Dubois,Indiana
+18039,4003,587,Small metro,0.14664001998501125,Elkhart,Indiana
+18043,2459,363,Large fringe metro,0.14762098413989427,Floyd,Indiana
+18053,1648,191,Micropolitan,0.11589805825242719,Grant,Indiana
+18057,4364,487,Large fringe metro,0.1115948670944088,Hamilton,Indiana
+18059,1359,155,Large fringe metro,0.11405445180279618,Hancock,Indiana
+18063,3303,494,Large fringe metro,0.1495610051468362,Hendricks,Indiana
+18067,2444,334,Small metro,0.13666121112929625,Howard,Indiana
+18077,741,113,Micropolitan,0.1524966261808367,Jefferson,Indiana
+18081,2468,247,Large fringe metro,0.10008103727714748,Johnson,Indiana
+18083,1136,180,Micropolitan,0.15845070422535212,Knox,Indiana
+18089,13112,1594,Large fringe metro,0.1215680292861501,Lake,Indiana
+18091,2576,254,Small metro,0.0986024844720497,LaPorte,Indiana
+18095,3153,416,Large fringe metro,0.13193783698065334,Madison,Indiana
+18097,24338,3083,Large central metro,0.12667433642863013,Marion,Indiana
+18099,883,119,Micropolitan,0.1347678369195923,Marshall,Indiana
+18105,2877,356,Small metro,0.12374000695168579,Monroe,Indiana
+18109,1220,110,Large fringe metro,0.09016393442622951,Morgan,Indiana
+18127,3485,324,Large fringe metro,0.09296987087517934,Porter,Indiana
+18141,6538,661,Medium metro,0.10110125420617926,St. Joseph,Indiana
+18145,869,117,Large fringe metro,0.13463751438434982,Shelby,Indiana
+18157,3415,460,Small metro,0.13469985358711567,Tippecanoe,Indiana
+18163,6036,798,Medium metro,0.13220675944333996,Vanderburgh,Indiana
+18167,3274,440,Small metro,0.13439218081857054,Vigo,Indiana
+18173,2283,390,Medium metro,0.17082785808147175,Warrick,Indiana
+18177,2396,377,Micropolitan,0.15734557595993323,Wayne,Indiana
+20037,1003,133,Micropolitan,0.13260219341974078,Crawford,Kansas
+20045,1544,102,Small metro,0.06606217616580311,Douglas,Kansas
+20051,777,153,Micropolitan,0.1969111969111969,Ellis,Kansas
+20055,610,129,Micropolitan,0.21147540983606558,Finney,Kansas
+20091,9537,1078,Large fringe metro,0.11303344867358708,Johnson,Kansas
+20155,1622,201,Micropolitan,0.12392108508014797,Reno,Kansas
+20169,1506,239,Micropolitan,0.15869853917662682,Saline,Kansas
+20173,12609,1438,Medium metro,0.11404552303909905,Sedgwick,Kansas
+20177,4994,651,Small metro,0.1303564277132559,Shawnee,Kansas
+20209,4440,634,Large fringe metro,0.1427927927927928,Wyandotte,Kansas
+21009,1297,230,Micropolitan,0.17733230531996916,Barren,Kentucky
+21013,721,101,Micropolitan,0.14008321775312066,Bell,Kentucky
+21015,1702,169,Large fringe metro,0.09929494712103408,Boone,Kentucky
+21019,2595,370,Medium metro,0.14258188824662812,Boyd,Kentucky
+21021,1266,296,Micropolitan,0.23380726698262244,Boyle,Kentucky
+21037,1668,287,Large fringe metro,0.1720623501199041,Campbell,Kentucky
+21047,1170,132,Medium metro,0.11282051282051282,Christian,Kentucky
+21059,2959,470,Small metro,0.15883744508279823,Daviess,Kentucky
+21067,10669,1083,Medium metro,0.10150904489642891,Fayette,Kentucky
+21071,985,116,Noncore,0.11776649746192894,Floyd,Kentucky
+21073,1300,145,Micropolitan,0.11153846153846154,Franklin,Kentucky
+21083,897,122,Micropolitan,0.13600891861761427,Graves,Kentucky
+21093,2613,396,Small metro,0.1515499425947187,Hardin,Kentucky
+21107,1491,238,Micropolitan,0.1596244131455399,Hopkins,Kentucky
+21111,23018,2608,Large central metro,0.1133026327222174,Jefferson,Kentucky
+21117,3909,320,Large fringe metro,0.08186236889229982,Kenton,Kentucky
+21125,1438,184,Micropolitan,0.12795549374130738,Laurel,Kentucky
+21145,3040,483,Micropolitan,0.15888157894736843,McCracken,Kentucky
+21151,1806,180,Micropolitan,0.09966777408637874,Madison,Kentucky
+21193,1927,233,Noncore,0.1209133367929424,Perry,Kentucky
+21195,2792,443,Noncore,0.1586676217765043,Pike,Kentucky
+21199,2030,257,Micropolitan,0.12660098522167487,Pulaski,Kentucky
+21227,3598,581,Small metro,0.1614785992217899,Warren,Kentucky
+21235,1220,223,Micropolitan,0.18278688524590164,Whitley,Kentucky
+22001,1299,132,Medium metro,0.10161662817551963,Acadia Parish,Louisiana
+22015,2198,266,Medium metro,0.12101910828025478,Bossier Parish,Louisiana
+22017,8837,1542,Medium metro,0.17449360642752065,Caddo Parish,Louisiana
+22019,4591,618,Small metro,0.1346111958179046,Calcasieu Parish,Louisiana
+22033,12917,2028,Medium metro,0.1570023999380661,East Baton Rouge Parish,Louisiana
+22045,1540,136,Medium metro,0.08831168831168831,Iberia Parish,Louisiana
+22051,11778,1627,Large fringe metro,0.1381389030395653,Jefferson Parish,Louisiana
+22055,6076,767,Medium metro,0.1262343647136274,Lafayette Parish,Louisiana
+22057,2060,308,Small metro,0.14951456310679612,Lafourche Parish,Louisiana
+22061,1033,106,Micropolitan,0.10261374636979671,Lincoln Parish,Louisiana
+22069,819,114,Micropolitan,0.1391941391941392,Natchitoches Parish,Louisiana
+22071,8630,778,Large central metro,0.09015063731170336,Orleans Parish,Louisiana
+22073,4600,898,Small metro,0.19521739130434781,Ouachita Parish,Louisiana
+22079,4639,716,Small metro,0.15434360853632248,Rapides Parish,Louisiana
+22097,2087,272,Micropolitan,0.13033061811212265,St. Landry Parish,Louisiana
+22101,1049,148,Micropolitan,0.14108674928503337,St. Mary Parish,Louisiana
+22103,5982,786,Large fringe metro,0.13139418254764293,St. Tammany Parish,Louisiana
+22105,2982,463,Small metro,0.15526492287055668,Tangipahoa Parish,Louisiana
+22109,2272,244,Small metro,0.1073943661971831,Terrebonne Parish,Louisiana
+22117,1010,109,Micropolitan,0.10792079207920792,Washington Parish,Louisiana
+25001,5861,365,Small metro,0.06227606210544276,Barnstable,Massachusetts
+25003,3196,266,Small metro,0.08322903629536921,Berkshire,Massachusetts
+25005,10758,1366,Large fringe metro,0.12697527421453803,Bristol,Massachusetts
+25009,14700,1832,Large fringe metro,0.12462585034013605,Essex,Massachusetts
+25013,11229,1391,Medium metro,0.12387567904532906,Hampden,Massachusetts
+25015,2367,205,Medium metro,0.08660752006759612,Hampshire,Massachusetts
+25017,23350,3077,Large fringe metro,0.13177730192719486,Middlesex,Massachusetts
+25021,10822,1131,Large fringe metro,0.10450933284051007,Norfolk,Massachusetts
+25023,9501,1067,Large fringe metro,0.11230396800336806,Plymouth,Massachusetts
+25025,17889,2300,Large central metro,0.12857062999608698,Suffolk,Massachusetts
+25027,15798,1935,Medium metro,0.1224838587162932,Worcester,Massachusetts
+24001,2287,347,Small metro,0.15172715347616966,Allegany,Maryland
+24003,9549,894,Large fringe metro,0.09362236883443292,Anne Arundel,Maryland
+24005,17294,1776,Large fringe metro,0.10269457615357927,Baltimore,Maryland
+24013,3479,325,Large fringe metro,0.0934176487496407,Carroll,Maryland
+24015,2030,205,Large fringe metro,0.10098522167487685,Cecil,Maryland
+24017,2181,209,Large fringe metro,0.0958276020174232,Charles,Maryland
+24021,3921,374,Large fringe metro,0.09538383065544503,Frederick,Maryland
+24025,4383,335,Large fringe metro,0.07643166780743783,Harford,Maryland
+24027,3615,232,Large fringe metro,0.06417704011065006,Howard,Maryland
+24031,15650,2310,Large fringe metro,0.1476038338658147,Montgomery,Maryland
+24033,11780,1526,Large fringe metro,0.12954159592529713,Prince George's,Maryland
+24037,1744,181,Small metro,0.10378440366972477,St. Mary's,Maryland
+24043,3815,472,Medium metro,0.1237221494102228,Washington,Maryland
+24045,3091,397,Medium metro,0.12843739890003236,Wicomico,Maryland
+24047,1352,133,Medium metro,0.09837278106508876,Worcester,Maryland
+24510,18845,1905,Large central metro,0.10108782170336959,Baltimore city,Maryland
+23001,3050,208,Small metro,0.06819672131147542,Androscoggin,Maine
+23005,7908,412,Medium metro,0.05209914011127972,Cumberland,Maine
+23011,2916,139,Micropolitan,0.04766803840877915,Kennebec,Maine
+23019,4480,302,Small metro,0.06741071428571428,Penobscot,Maine
+23031,3078,185,Medium metro,0.06010396361273554,York,Maine
+26007,907,137,Micropolitan,0.15104740904079383,Alpena,Michigan
+26017,3216,437,Small metro,0.13588308457711443,Bay,Michigan
+26021,3544,362,Small metro,0.10214446952595936,Berrien,Michigan
+26025,3374,313,Small metro,0.09276822762299941,Calhoun,Michigan
+26047,1264,140,Noncore,0.11075949367088607,Emmet,Michigan
+26049,10708,1154,Medium metro,0.1077698916697796,Genesee,Michigan
+26055,3128,310,Micropolitan,0.09910485933503836,Grand Traverse,Michigan
+26057,1039,146,Micropolitan,0.14051973051010588,Gratiot,Michigan
+26065,6819,784,Medium metro,0.114972869922276,Ingham,Michigan
+26075,4045,444,Small metro,0.10976514215080346,Jackson,Michigan
+26077,6608,783,Medium metro,0.11849273607748184,Kalamazoo,Michigan
+26081,13505,1472,Large central metro,0.10899666790077749,Kent,Michigan
+26087,1882,239,Large fringe metro,0.12699256110520724,Lapeer,Michigan
+26091,1913,149,Micropolitan,0.07788813382122321,Lenawee,Michigan
+26093,2670,133,Large fringe metro,0.049812734082397,Livingston,Michigan
+26099,16843,1905,Large fringe metro,0.11310336638366086,Macomb,Michigan
+26103,1741,155,Micropolitan,0.08902929350947732,Marquette,Michigan
+26111,2159,209,Small metro,0.0968040759610931,Midland,Michigan
+26115,2587,183,Small metro,0.07073830691921144,Monroe,Michigan
+26117,1180,107,Large fringe metro,0.09067796610169492,Montcalm,Michigan
+26121,4151,490,Small metro,0.11804384485666104,Muskegon,Michigan
+26125,28189,3725,Large fringe metro,0.13214374401362233,Oakland,Michigan
+26139,4126,395,Large fringe metro,0.09573436742607852,Ottawa,Michigan
+26145,5860,907,Small metro,0.15477815699658704,Saginaw,Michigan
+26147,3852,500,Large fringe metro,0.12980269989615784,St. Clair,Michigan
+26155,1465,103,Micropolitan,0.07030716723549488,Shiawassee,Michigan
+26161,8172,808,Medium metro,0.09887420460107685,Washtenaw,Michigan
+26163,41495,5214,Large central metro,0.12565369321605013,Wayne,Michigan
+27003,4823,665,Large fringe metro,0.1378809869375907,Anoka,Minnesota
+27007,922,116,Micropolitan,0.12581344902386118,Beltrami,Minnesota
+27013,1266,124,Small metro,0.09794628751974724,Blue Earth,Minnesota
+27035,1367,123,Micropolitan,0.08997805413313825,Crow Wing,Minnesota
+27037,4609,374,Large fringe metro,0.081145584725537,Dakota,Minnesota
+27053,23238,2683,Large central metro,0.1154574403993459,Hennepin,Minnesota
+27067,803,107,Micropolitan,0.13325031133250312,Kandiyohi,Minnesota
+27109,4372,352,Small metro,0.08051235132662397,Olmsted,Minnesota
+27123,11599,1535,Large central metro,0.13233899474092595,Ramsey,Minnesota
+27137,5895,588,Medium metro,0.09974554707379135,St. Louis,Minnesota
+27139,1404,109,Large fringe metro,0.07763532763532764,Scott,Minnesota
+27145,3635,495,Small metro,0.1361760660247593,Stearns,Minnesota
+27163,3177,274,Large fringe metro,0.08624488511174064,Washington,Minnesota
+27171,1468,131,Large fringe metro,0.08923705722070845,Wright,Minnesota
+29019,4840,595,Small metro,0.12293388429752067,Boone,Missouri
+29021,2507,320,Small metro,0.12764260071798963,Buchanan,Missouri
+29023,1518,185,Micropolitan,0.12187088274044795,Butler,Missouri
+29029,1387,206,Noncore,0.14852198990627252,Camden,Missouri
+29031,3062,389,Small metro,0.12704114957544088,Cape Girardeau,Missouri
+29047,5197,711,Large fringe metro,0.13680969790263614,Clay,Missouri
+29051,2095,389,Small metro,0.18568019093078758,Cole,Missouri
+29071,2055,232,Large fringe metro,0.11289537712895377,Franklin,Missouri
+29077,10188,1623,Medium metro,0.15930506478209658,Greene,Missouri
+29091,1290,168,Micropolitan,0.13023255813953488,Howell,Missouri
+29095,17338,1826,Large central metro,0.10531779905410082,Jackson,Missouri
+29097,1780,110,Small metro,0.06179775280898876,Jasper,Missouri
+29099,3395,306,Large fringe metro,0.09013254786450663,Jefferson,Missouri
+29127,866,135,Micropolitan,0.1558891454965358,Marion,Missouri
+29145,3536,663,Small metro,0.1875,Newton,Missouri
+29159,984,130,Micropolitan,0.13211382113821138,Pettis,Missouri
+29161,1278,209,Micropolitan,0.16353677621283255,Phelps,Missouri
+29165,1350,126,Large fringe metro,0.09333333333333334,Platte,Missouri
+29167,808,120,Medium metro,0.1485148514851485,Polk,Missouri
+29183,6544,734,Large fringe metro,0.11216381418092909,St. Charles,Missouri
+29187,1598,121,Micropolitan,0.07571964956195244,St. Francois,Missouri
+29189,27407,3263,Large fringe metro,0.11905717517422557,St. Louis,Missouri
+29201,1021,124,Micropolitan,0.12144955925563174,Scott,Missouri
+29213,1338,105,Micropolitan,0.07847533632286996,Taney,Missouri
+29510,10178,907,Large central metro,0.08911377480841029,St. Louis city,Missouri
+28001,819,135,Micropolitan,0.16483516483516483,Adams,Mississippi
+28003,1300,197,Micropolitan,0.15153846153846154,Alcorn,Mississippi
+28033,3815,709,Large fringe metro,0.1858453473132372,DeSoto,Mississippi
+28035,3398,647,Small metro,0.19040612124779283,Forrest,Mississippi
+28047,5510,688,Medium metro,0.12486388384754991,Harrison,Mississippi
+28049,10096,1654,Medium metro,0.1638272583201268,Hinds,Mississippi
+28059,3361,447,Medium metro,0.1329961321035406,Jackson,Mississippi
+28067,1655,230,Micropolitan,0.13897280966767372,Jones,Mississippi
+28071,1735,381,Micropolitan,0.2195965417867435,Lafayette,Mississippi
+28073,1261,220,Small metro,0.17446471054718476,Lamar,Mississippi
+28075,3083,667,Micropolitan,0.21634771326629906,Lauderdale,Mississippi
+28081,4494,743,Micropolitan,0.16533155318202047,Lee,Mississippi
+28083,1033,211,Micropolitan,0.2042594385285576,Leflore,Mississippi
+28085,911,140,Micropolitan,0.15367727771679474,Lincoln,Mississippi
+28087,1766,357,Micropolitan,0.20215175537938845,Lowndes,Mississippi
+28089,2066,183,Medium metro,0.08857696030977735,Madison,Mississippi
+28095,804,135,Noncore,0.16791044776119404,Monroe,Mississippi
+28105,730,131,Micropolitan,0.17945205479452056,Oktibbeha,Mississippi
+28109,1230,107,Micropolitan,0.08699186991869919,Pearl River,Mississippi
+28113,1171,165,Micropolitan,0.14090520922288644,Pike,Mississippi
+28121,2257,245,Medium metro,0.10855117412494461,Rankin,Mississippi
+28149,1314,240,Micropolitan,0.182648401826484,Warren,Mississippi
+28151,1529,228,Micropolitan,0.14911706998037932,Washington,Mississippi
+30013,2556,385,Small metro,0.15062597809076683,Cascade,Montana
+30029,2551,294,Micropolitan,0.11524892199137593,Flathead,Montana
+30049,1456,162,Micropolitan,0.11126373626373626,Lewis and Clark,Montana
+30063,2421,290,Small metro,0.1197852127220157,Missoula,Montana
+30093,933,112,Micropolitan,0.12004287245444802,Silver Bow,Montana
+30111,4817,843,Small metro,0.17500518995225245,Yellowstone,Montana
+37001,3414,227,Small metro,0.06649091974223785,Alamance,North Carolina
+37013,933,131,Micropolitan,0.14040728831725616,Beaufort,North Carolina
+37019,2438,149,Medium metro,0.06111566858080394,Brunswick,North Carolina
+37021,7515,786,Medium metro,0.10459081836327346,Buncombe,North Carolina
+37023,1864,274,Medium metro,0.14699570815450644,Burke,North Carolina
+37025,3964,567,Large fringe metro,0.14303733602421795,Cabarrus,North Carolina
+37027,1681,210,Medium metro,0.12492563950029745,Caldwell,North Carolina
+37035,4081,618,Medium metro,0.15143347218818917,Catawba,North Carolina
+37045,2375,424,Micropolitan,0.17852631578947367,Cleveland,North Carolina
+37047,1303,123,Noncore,0.09439754412893323,Columbus,North Carolina
+37049,2392,248,Small metro,0.10367892976588629,Craven,North Carolina
+37051,5960,648,Medium metro,0.1087248322147651,Cumberland,North Carolina
+37057,3016,270,Medium metro,0.08952254641909814,Davidson,North Carolina
+37061,874,109,Noncore,0.12471395881006865,Duplin,North Carolina
+37063,6804,585,Medium metro,0.08597883597883597,Durham,North Carolina
+37065,1070,133,Small metro,0.12429906542056075,Edgecombe,North Carolina
+37067,10851,1314,Medium metro,0.12109482996958805,Forsyth,North Carolina
+37071,4938,675,Large fringe metro,0.13669501822600244,Gaston,North Carolina
+37081,11775,1368,Medium metro,0.11617834394904458,Guilford,North Carolina
+37083,1119,131,Micropolitan,0.11706881143878463,Halifax,North Carolina
+37085,1829,201,Micropolitan,0.10989611809732094,Harnett,North Carolina
+37087,1359,132,Medium metro,0.09713024282560706,Haywood,North Carolina
+37089,2966,293,Medium metro,0.09878624409979771,Henderson,North Carolina
+37091,563,102,Noncore,0.1811722912966252,Hertford,North Carolina
+37097,3281,412,Large fringe metro,0.12557147211216094,Iredell,North Carolina
+37101,2884,242,Large fringe metro,0.0839112343966713,Johnston,North Carolina
+37107,1277,189,Micropolitan,0.1480031323414252,Lenoir,North Carolina
+37109,1259,148,Large fringe metro,0.11755361397934869,Lincoln,North Carolina
+37119,16800,2080,Large central metro,0.12380952380952381,Mecklenburg,North Carolina
+37125,3143,508,Micropolitan,0.16162901686286987,Moore,North Carolina
+37127,2080,253,Small metro,0.12163461538461538,Nash,North Carolina
+37129,6178,576,Medium metro,0.09323405632890903,New Hanover,North Carolina
+37133,1965,219,Small metro,0.11145038167938931,Onslow,North Carolina
+37135,2984,397,Medium metro,0.13304289544235925,Orange,North Carolina
+37139,1113,173,Micropolitan,0.1554357592093441,Pasquotank,North Carolina
+37147,5095,576,Small metro,0.11305201177625122,Pitt,North Carolina
+37151,2552,188,Medium metro,0.07366771159874608,Randolph,North Carolina
+37153,977,124,Micropolitan,0.1269191402251791,Richmond,North Carolina
+37155,2647,297,Micropolitan,0.11220249338874197,Robeson,North Carolina
+37157,2177,163,Medium metro,0.07487367937528709,Rockingham,North Carolina
+37159,3174,463,Large fringe metro,0.14587271581600503,Rowan,North Carolina
+37161,1539,225,Micropolitan,0.14619883040935672,Rutherford,North Carolina
+37165,1075,220,Micropolitan,0.20465116279069767,Scotland,North Carolina
+37167,1076,105,Micropolitan,0.09758364312267657,Stanly,North Carolina
+37171,2023,295,Micropolitan,0.1458230350963915,Surry,North Carolina
+37179,2924,381,Large fringe metro,0.13030095759233926,Union,North Carolina
+37181,1034,143,Micropolitan,0.13829787234042554,Vance,North Carolina
+37183,13336,1406,Large central metro,0.10542891421715657,Wake,North Carolina
+37191,3027,372,Small metro,0.12289395441030723,Wayne,North Carolina
+37193,1323,154,Micropolitan,0.1164021164021164,Wilkes,North Carolina
+37195,1681,234,Micropolitan,0.13920285544318858,Wilson,North Carolina
+38015,2551,419,Small metro,0.16424931399451195,Burleigh,North Dakota
+38017,4585,766,Small metro,0.16706652126499455,Cass,North Dakota
+38035,1385,166,Small metro,0.11985559566787003,Grand Forks,North Dakota
+38101,1539,273,Micropolitan,0.17738791423001948,Ward,North Dakota
+31019,1120,168,Micropolitan,0.15,Buffalo,Nebraska
+31055,11443,1314,Medium metro,0.11483002709079787,Douglas,Nebraska
+31079,1250,177,Small metro,0.1416,Hall,Nebraska
+31109,6099,617,Medium metro,0.10116412526643712,Lancaster,Nebraska
+31111,934,129,Micropolitan,0.1381156316916488,Lincoln,Nebraska
+31119,799,103,Micropolitan,0.12891113892365458,Madison,Nebraska
+31153,1793,111,Medium metro,0.0619074177356386,Sarpy,Nebraska
+31157,971,148,Micropolitan,0.15242018537590113,Scotts Bluff,Nebraska
+33001,1351,130,Micropolitan,0.09622501850481126,Belknap,New Hampshire
+33011,7555,762,Medium metro,0.10086035737921906,Hillsborough,New Hampshire
+33013,3220,172,Micropolitan,0.05341614906832298,Merrimack,New Hampshire
+33015,4746,293,Large fringe metro,0.0617361989043405,Rockingham,New Hampshire
+33017,2534,149,Large fringe metro,0.058800315706393054,Strafford,New Hampshire
+34001,6536,758,Medium metro,0.11597307221542227,Atlantic,New Jersey
+34003,17935,3337,Large fringe metro,0.18606077502090884,Bergen,New Jersey
+34005,7694,879,Large fringe metro,0.11424486612945152,Burlington,New Jersey
+34007,13261,1540,Large fringe metro,0.11613000527863661,Camden,New Jersey
+34009,2369,182,Small metro,0.07682566483748417,Cape May,New Jersey
+34011,3384,442,Small metro,0.13061465721040189,Cumberland,New Jersey
+34013,16117,3249,Large central metro,0.20158838493516162,Essex,New Jersey
+34015,5746,693,Large fringe metro,0.12060563870518622,Gloucester,New Jersey
+34017,8202,1803,Large central metro,0.21982443306510607,Hudson,New Jersey
+34019,1723,186,Large fringe metro,0.10795124782356355,Hunterdon,New Jersey
+34021,6413,933,Medium metro,0.14548573210665836,Mercer,New Jersey
+34023,15360,2606,Large fringe metro,0.16966145833333332,Middlesex,New Jersey
+34025,13733,1845,Large fringe metro,0.1343479210660453,Monmouth,New Jersey
+34027,10668,1678,Large fringe metro,0.1572928383952006,Morris,New Jersey
+34029,14769,2006,Large fringe metro,0.1358250389329,Ocean,New Jersey
+34031,8397,1678,Large fringe metro,0.19983327378825771,Passaic,New Jersey
+34033,1370,137,Large fringe metro,0.1,Salem,New Jersey
+34035,4716,678,Large fringe metro,0.14376590330788805,Somerset,New Jersey
+34037,2487,272,Large fringe metro,0.1093687173301166,Sussex,New Jersey
+34039,9538,1719,Large central metro,0.18022646257076955,Union,New Jersey
+34041,2032,261,Medium metro,0.12844488188976377,Warren,New Jersey
+35001,16700,2148,Medium metro,0.12862275449101795,Bernalillo,New Mexico
+35005,1417,215,Micropolitan,0.15172900494001412,Chaves,New Mexico
+35009,812,114,Micropolitan,0.14039408866995073,Curry,New Mexico
+35013,4456,618,Small metro,0.13868940754039497,Do̱a Ana,New Mexico
+35015,1031,134,Micropolitan,0.12997090203685743,Eddy,New Mexico
+35025,1005,147,Micropolitan,0.14626865671641792,Lea,New Mexico
+35031,1351,245,Micropolitan,0.18134715025906736,McKinley,New Mexico
+35043,3084,559,Medium metro,0.18125810635538261,Sandoval,New Mexico
+35045,2819,594,Small metro,0.21071301880099327,San Juan,New Mexico
+35049,2989,251,Small metro,0.08397457343593175,Santa Fe,New Mexico
+32003,44002,6779,Large central metro,0.15406117903731648,Clark,Nevada
+32031,10734,1243,Medium metro,0.11580026085336315,Washoe,Nevada
+32510,2362,286,Small metro,0.12108382726502964,Carson City,Nevada
+36001,8538,845,Medium metro,0.09896931365659405,Albany,New York
+36005,28613,5968,Large central metro,0.20857652116170972,Bronx,New York
+36007,5165,612,Small metro,0.11848983543078412,Broome,New York
+36009,1693,184,Micropolitan,0.10868281157708211,Cattaraugus,New York
+36011,1492,108,Micropolitan,0.07238605898123325,Cayuga,New York
+36013,2641,232,Micropolitan,0.08784551306323363,Chautauqua,New York
+36015,2051,255,Small metro,0.12432959531935642,Chemung,New York
+36021,1316,142,Micropolitan,0.10790273556231003,Columbia,New York
+36027,5929,675,Large fringe metro,0.11384719176926969,Dutchess,New York
+36029,22880,2820,Large central metro,0.12325174825174826,Erie,New York
+36035,1127,118,Micropolitan,0.10470275066548358,Fulton,New York
+36037,1200,167,Micropolitan,0.13916666666666666,Genesee,New York
+36045,1801,130,Small metro,0.072182121043864525,Jefferson,New York
+36047,38448,9023,Large central metro,0.234680607573866,Kings,New York
+36053,1187,117,Medium metro,0.09856781802864364,Madison,New York
+36055,17652,1871,Large central metro,0.10599365510990257,Monroe,New York
+36057,1300,156,Micropolitan,0.12,Montgomery,New York
+36059,27591,5203,Large fringe metro,0.1885759849226197,Nassau,New York
+36061,32564,6144,Large central metro,0.18867460999877164,New York,New York
+36063,4532,385,Large fringe metro,0.08495145631067962,Niagara,New York
+36065,5960,782,Medium metro,0.13120805369127517,Oneida,New York
+36067,11955,1277,Medium metro,0.1068172312839816,Onondaga,New York
+36069,2236,190,Large fringe metro,0.08497316636851521,Ontario,New York
+36071,6282,1017,Large fringe metro,0.16189111747851004,Orange,New York
+36075,1578,111,Medium metro,0.07034220532319392,Oswego,New York
+36077,1719,163,Micropolitan,0.09482257126236183,Otsego,New York
+36079,1072,108,Large fringe metro,0.10074626865671642,Putnam,New York
+36081,32639,7865,Large central metro,0.24096939244462146,Queens,New York
+36083,3069,203,Medium metro,0.06614532420984034,Rensselaer,New York
+36085,8671,1775,Large central metro,0.20470533963787338,Richmond,New York
+36087,5088,1036,Large fringe metro,0.20361635220125787,Rockland,New York
+36089,2008,171,Micropolitan,0.08515936254980079,St. Lawrence,New York
+36091,3168,212,Medium metro,0.06691919191919192,Saratoga,New York
+36093,3381,257,Medium metro,0.07601301390121266,Schenectady,New York
+36101,2003,192,Micropolitan,0.09585621567648527,Steuben,New York
+36103,29204,4905,Large fringe metro,0.16795644432269552,Suffolk,New York
+36105,1275,102,Noncore,0.08,Sullivan,New York
+36111,2857,217,Small metro,0.0759537976898845,Ulster,New York
+36113,2021,188,Small metro,0.09302325581395349,Warren,New York
+36119,16432,3098,Large fringe metro,0.18853456669912366,Westchester,New York
+39003,3316,566,Small metro,0.1706875753920386,Allen,Ohio
+39005,1100,137,Micropolitan,0.12454545454545454,Ashland,Ohio
+39007,2204,234,Micropolitan,0.10617059891107078,Ashtabula,Ohio
+39013,1256,121,Small metro,0.0963375796178344,Belmont,Ohio
+39017,7066,834,Large fringe metro,0.1180300028304557,Butler,Ohio
+39023,3521,379,Small metro,0.10763987503550128,Clark,Ohio
+39025,2635,202,Large fringe metro,0.07666034155597723,Clermont,Ohio
+39029,2365,305,Micropolitan,0.12896405919661733,Columbiana,Ohio
+39033,1091,139,Micropolitan,0.12740604949587533,Crawford,Ohio
+39035,35722,3848,Large central metro,0.10772073232181849,Cuyahoga,Ohio
+39037,1103,117,Micropolitan,0.10607434270172257,Darke,Ohio
+39039,1212,113,Micropolitan,0.09323432343234324,Defiance,Ohio
+39041,1948,115,Large fringe metro,0.059034907597535935,Delaware,Ohio
+39043,2354,272,Micropolitan,0.11554800339847068,Erie,Ohio
+39045,2984,312,Large fringe metro,0.10455764075067024,Fairfield,Ohio
+39049,29860,3336,Large central metro,0.11172136637642331,Franklin,Ohio
+39053,925,151,Micropolitan,0.16324324324324324,Gallia,Ohio
+39055,2005,263,Large fringe metro,0.13117206982543642,Geauga,Ohio
+39057,2743,375,Medium metro,0.13671162960262487,Greene,Ohio
+39061,21939,2399,Large central metro,0.10934864852545695,Hamilton,Ohio
+39063,1957,267,Micropolitan,0.13643331630045988,Hancock,Ohio
+39075,742,147,Noncore,0.19811320754716982,Holmes,Ohio
+39077,1141,117,Micropolitan,0.10254163014899212,Huron,Ohio
+39081,1877,209,Small metro,0.11134789557805008,Jefferson,Ohio
+39083,1268,138,Micropolitan,0.10883280757097792,Knox,Ohio
+39085,4447,428,Large fringe metro,0.09624465932089049,Lake,Ohio
+39089,3309,319,Large fringe metro,0.09640374735569658,Licking,Ohio
+39093,6146,690,Large fringe metro,0.11226814188089815,Lorain,Ohio
+39095,12645,1697,Medium metro,0.13420324238829576,Lucas,Ohio
+39099,7903,1018,Medium metro,0.1288118436036948,Mahoning,Ohio
+39101,1702,308,Micropolitan,0.1809635722679201,Marion,Ohio
+39103,2684,228,Large fringe metro,0.08494783904619971,Medina,Ohio
+39109,2268,275,Medium metro,0.12125220458553791,Miami,Ohio
+39113,17171,2247,Medium metro,0.1308601712189156,Montgomery,Ohio
+39119,2561,324,Micropolitan,0.12651308082780163,Muskingum,Ohio
+39129,992,115,Large fringe metro,0.1159274193548387,Pickaway,Ohio
+39133,2797,246,Medium metro,0.08795137647479442,Portage,Ohio
+39139,3118,390,Small metro,0.12508017960230916,Richland,Ohio
+39141,2239,307,Micropolitan,0.13711478338543992,Ross,Ohio
+39143,1214,136,Micropolitan,0.11202635914332784,Sandusky,Ohio
+39145,2551,262,Micropolitan,0.10270482163857311,Scioto,Ohio
+39147,986,107,Micropolitan,0.10851926977687627,Seneca,Ohio
+39151,10423,1484,Medium metro,0.14237743451981194,Stark,Ohio
+39153,13756,1438,Medium metro,0.10453620238441408,Summit,Ohio
+39155,4585,496,Medium metro,0.10817884405670665,Trumbull,Ohio
+39157,2326,337,Micropolitan,0.14488392089423904,Tuscarawas,Ohio
+39165,3944,343,Large fringe metro,0.08696754563894524,Warren,Ohio
+39167,1916,294,Micropolitan,0.1534446764091858,Washington,Ohio
+39169,2451,315,Micropolitan,0.12851897184822522,Wayne,Ohio
+39173,2514,181,Medium metro,0.07199681782020684,Wood,Ohio
+40013,1086,163,Micropolitan,0.15009208103130756,Bryan,Oklahoma
+40017,1548,168,Large fringe metro,0.10852713178294573,Canadian,Oklahoma
+40019,1292,194,Micropolitan,0.15015479876160992,Carter,Oklahoma
+40021,1094,173,Micropolitan,0.15813528336380256,Cherokee,Oklahoma
+40027,4464,606,Large fringe metro,0.135752688172043,Cleveland,Oklahoma
+40031,2486,347,Small metro,0.13958165728077232,Comanche,Oklahoma
+40041,1005,127,Noncore,0.1263681592039801,Delaware,Oklahoma
+40047,1617,260,Micropolitan,0.16079158936301793,Garfield,Oklahoma
+40051,957,105,Large fringe metro,0.109717868338558,Grady,Oklahoma
+40071,1033,139,Micropolitan,0.1345595353339787,Kay,Oklahoma
+40101,2165,328,Micropolitan,0.1515011547344111,Muskogee,Oklahoma
+40109,22949,3394,Large central metro,0.14789315438581202,Oklahoma,Oklahoma
+40119,1202,123,Micropolitan,0.10232945091514144,Payne,Oklahoma
+40121,1294,184,Micropolitan,0.14219474497681608,Pittsburg,Oklahoma
+40123,954,160,Micropolitan,0.16771488469601678,Pontotoc,Oklahoma
+40125,1870,246,Micropolitan,0.13155080213903744,Pottawatomie,Oklahoma
+40131,1511,132,Medium metro,0.08735936465916612,Rogers,Oklahoma
+40137,1114,169,Micropolitan,0.15170556552962297,Stephens,Oklahoma
+40143,19292,3159,Medium metro,0.1637466307277628,Tulsa,Oklahoma
+40147,1618,280,Micropolitan,0.173053152039555,Washington,Oklahoma
+41005,7245,392,Large fringe metro,0.05410628019323672,Clackamas,Oregon
+41017,3734,343,Small metro,0.09185859667916443,Deschutes,Oregon
+41019,3276,245,Micropolitan,0.07478632478632478,Douglas,Oregon
+41029,5463,380,Small metro,0.06955885044847153,Jackson,Oregon
+41033,2589,220,Small metro,0.08497489378138277,Josephine,Oregon
+41035,1787,151,Micropolitan,0.08449916060436485,Klamath,Oregon
+41039,8587,386,Medium metro,0.04495167113077909,Lane,Oregon
+41043,2822,123,Small metro,0.04358610914245216,Linn,Oregon
+41047,6252,507,Medium metro,0.08109404990403071,Marion,Oregon
+41051,15167,1267,Large central metro,0.08353662556866882,Multnomah,Oregon
+41059,1290,109,Micropolitan,0.08449612403100776,Umatilla,Oregon
+41067,7730,548,Large fringe metro,0.07089262613195343,Washington,Oregon
+41071,1948,111,Large fringe metro,0.056981519507186856,Yamhill,Oregon
+42001,1795,182,Small metro,0.10139275766016713,Adams,Pennsylvania
+42003,36212,3643,Large central metro,0.10060201038329836,Allegheny,Pennsylvania
+42005,1368,154,Large fringe metro,0.11257309941520467,Armstrong,Pennsylvania
+42007,4032,469,Large fringe metro,0.11631944444444445,Beaver,Pennsylvania
+42011,8471,1148,Medium metro,0.1355211899421556,Berks,Pennsylvania
+42013,4294,620,Small metro,0.14438751746623196,Blair,Pennsylvania
+42015,2047,246,Micropolitan,0.12017586712261846,Bradford,Pennsylvania
+42017,12745,1406,Large fringe metro,0.11031777167516674,Bucks,Pennsylvania
+42019,4306,577,Large fringe metro,0.13399907106363215,Butler,Pennsylvania
+42021,3890,563,Small metro,0.14473007712082261,Cambria,Pennsylvania
+42025,1307,140,Medium metro,0.10711553175210406,Carbon,Pennsylvania
+42027,2329,284,Small metro,0.12194074710176041,Centre,Pennsylvania
+42029,8812,1044,Large fringe metro,0.11847480708125284,Chester,Pennsylvania
+42031,822,118,Noncore,0.1435523114355231,Clarion,Pennsylvania
+42033,2113,275,Micropolitan,0.13014671083767157,Clearfield,Pennsylvania
+42039,1985,224,Micropolitan,0.1128463476070529,Crawford,Pennsylvania
+42041,5771,833,Medium metro,0.14434240166348986,Cumberland,Pennsylvania
+42043,7540,981,Medium metro,0.13010610079575596,Dauphin,Pennsylvania
+42045,10781,1440,Large fringe metro,0.13356831462758556,Delaware,Pennsylvania
+42049,7367,794,Medium metro,0.10777792860051581,Erie,Pennsylvania
+42051,3096,399,Large fringe metro,0.12887596899224807,Fayette,Pennsylvania
+42055,3588,526,Small metro,0.14659977703455965,Franklin,Pennsylvania
+42061,817,118,Micropolitan,0.14443084455324356,Huntingdon,Pennsylvania
+42063,1793,245,Micropolitan,0.13664249860568878,Indiana,Pennsylvania
+42065,979,136,Noncore,0.13891726251276812,Jefferson,Pennsylvania
+42069,6339,647,Medium metro,0.10206657201451333,Lackawanna,Pennsylvania
+42071,11262,1408,Medium metro,0.12502219854377553,Lancaster,Pennsylvania
+42073,2238,266,Micropolitan,0.11885612153708669,Lawrence,Pennsylvania
+42075,3122,302,Small metro,0.09673286354900705,Lebanon,Pennsylvania
+42077,11063,1662,Medium metro,0.150230498056585,Lehigh,Pennsylvania
+42079,8723,1028,Medium metro,0.11784936375100309,Luzerne,Pennsylvania
+42081,3149,492,Small metro,0.15624007621467131,Lycoming,Pennsylvania
+42085,2960,330,Medium metro,0.11148648648648649,Mercer,Pennsylvania
+42087,1309,274,Micropolitan,0.20932009167303284,Mifflin,Pennsylvania
+42089,3035,364,Small metro,0.11993410214168039,Monroe,Pennsylvania
+42091,18569,2536,Large fringe metro,0.13657170553072326,Montgomery,Pennsylvania
+42093,2869,583,Small metro,0.20320669222725687,Montour,Pennsylvania
+42095,5703,621,Medium metro,0.10889005786428195,Northampton,Pennsylvania
+42097,1741,239,Micropolitan,0.1372774267662263,Northumberland,Pennsylvania
+42101,34286,3953,Large central metro,0.11529487254272881,Philadelphia,Pennsylvania
+42107,3344,389,Micropolitan,0.11632775119617225,Schuylkill,Pennsylvania
+42111,1960,264,Micropolitan,0.1346938775510204,Somerset,Pennsylvania
+42117,821,127,Noncore,0.15468940316686966,Tioga,Pennsylvania
+42119,1044,195,Micropolitan,0.1867816091954023,Union,Pennsylvania
+42121,1233,152,Micropolitan,0.12327656123276562,Venango,Pennsylvania
+42123,963,129,Micropolitan,0.13395638629283488,Warren,Pennsylvania
+42125,5171,443,Large fringe metro,0.08567008315606266,Washington,Pennsylvania
+42127,1199,127,Noncore,0.10592160133444536,Wayne,Pennsylvania
+42129,7872,762,Large fringe metro,0.09679878048780488,Westmoreland,Pennsylvania
+42133,9181,1074,Medium metro,0.11698072105435138,York,Pennsylvania
+44003,3297,367,Large fringe metro,0.11131331513497118,Kent,Rhode Island
+44007,14718,2280,Large central metro,0.15491235222176927,Providence,Rhode Island
+44009,2243,153,Large fringe metro,0.06821221578243424,Washington,Rhode Island
+45003,3545,349,Medium metro,0.09844851904090268,Aiken,South Carolina
+45007,5389,742,Medium metro,0.13768788272406754,Anderson,South Carolina
+45013,3331,272,Small metro,0.0816571600120084,Beaufort,South Carolina
+45015,3072,193,Medium metro,0.06282552083333333,Berkeley,South Carolina
+45019,10451,1202,Medium metro,0.11501291742416994,Charleston,South Carolina
+45025,893,103,Noncore,0.11534154535274356,Chesterfield,South Carolina
+45029,1164,166,Noncore,0.14261168384879724,Colleton,South Carolina
+45031,1347,212,Small metro,0.15738678544914625,Darlington,South Carolina
+45035,1931,221,Medium metro,0.1144484722941481,Dorchester,South Carolina
+45041,6416,1042,Small metro,0.1624064837905237,Florence,South Carolina
+45043,2074,293,Micropolitan,0.14127290260366443,Georgetown,South Carolina
+45045,11915,1694,Medium metro,0.14217373059169114,Greenville,South Carolina
+45047,2333,324,Micropolitan,0.13887698242606086,Greenwood,South Carolina
+45051,9131,978,Medium metro,0.10710765524038988,Horry,South Carolina
+45055,1343,134,Medium metro,0.09977661950856292,Kershaw,South Carolina
+45057,1686,185,Large fringe metro,0.10972716488730723,Lancaster,South Carolina
+45059,1542,162,Medium metro,0.10505836575875487,Laurens,South Carolina
+45063,6162,700,Medium metro,0.11359948068808828,Lexington,South Carolina
+45073,1990,233,Micropolitan,0.11708542713567839,Oconee,South Carolina
+45075,2403,329,Micropolitan,0.13691219309196836,Orangeburg,South Carolina
+45077,2071,295,Medium metro,0.14244326412361177,Pickens,South Carolina
+45079,8977,1102,Medium metro,0.12275815974156178,Richland,South Carolina
+45083,8673,1475,Medium metro,0.17006802721088435,Spartanburg,South Carolina
+45085,2419,286,Small metro,0.11823067383216206,Sumter,South Carolina
+45091,4532,457,Large fringe metro,0.10083848190644307,York,South Carolina
+46013,844,131,Micropolitan,0.1552132701421801,Brown,South Dakota
+46099,5631,958,Small metro,0.17012963949564908,Minnehaha,South Dakota
+46103,2823,333,Small metro,0.1179596174282678,Pennington,South Dakota
+47001,2530,263,Medium metro,0.10395256916996047,Anderson,Tennessee
+47009,3204,295,Medium metro,0.09207240948813983,Blount,Tennessee
+47011,2556,282,Small metro,0.11032863849765258,Bradley,Tennessee
+47019,1469,162,Small metro,0.1102791014295439,Carter,Tennessee
+47025,852,104,Noncore,0.12206572769953052,Claiborne,Tennessee
+47029,1082,138,Micropolitan,0.12754158964879853,Cocke,Tennessee
+47031,1393,128,Micropolitan,0.09188801148600144,Coffee,Tennessee
+47035,1951,232,Micropolitan,0.11891337775499744,Cumberland,Tennessee
+47037,20630,2911,Large central metro,0.1411051866214251,Davidson,Tennessee
+47043,1409,267,Large fringe metro,0.18949609652235627,Dickson,Tennessee
+47045,1094,144,Micropolitan,0.1316270566727605,Dyer,Tennessee
+47051,1070,128,Micropolitan,0.11962616822429907,Franklin,Tennessee
+47059,1786,160,Micropolitan,0.08958566629339305,Greene,Tennessee
+47063,2014,267,Small metro,0.13257199602780537,Hamblen,Tennessee
+47065,12047,1560,Medium metro,0.12949281978915914,Hamilton,Tennessee
+47089,1400,182,Small metro,0.13,Jefferson,Tennessee
+47093,15181,1710,Medium metro,0.11264080100125157,Knox,Tennessee
+47107,1414,110,Micropolitan,0.07779349363507779,McMinn,Tennessee
+47113,4904,1029,Small metro,0.20982871125611746,Madison,Tennessee
+47119,2821,444,Large fringe metro,0.15739099610067353,Maury,Tennessee
+47123,1130,124,Noncore,0.10973451327433628,Monroe,Tennessee
+47125,3180,372,Medium metro,0.1169811320754717,Montgomery,Tennessee
+47131,788,112,Micropolitan,0.14213197969543148,Obion,Tennessee
+47141,2721,398,Micropolitan,0.14626975376699744,Putnam,Tennessee
+47145,1398,138,Medium metro,0.09871244635193133,Roane,Tennessee
+47147,1401,142,Large fringe metro,0.10135617416131334,Robertson,Tennessee
+47149,6159,980,Large fringe metro,0.15911673973047571,Rutherford,Tennessee
+47155,2148,245,Micropolitan,0.11405959031657356,Sevier,Tennessee
+47157,24804,2951,Large central metro,0.1189727463312369,Shelby,Tennessee
+47163,7244,930,Medium metro,0.12838210933186084,Sullivan,Tennessee
+47165,3704,536,Large fringe metro,0.1447084233261339,Sumner,Tennessee
+47179,5270,678,Small metro,0.1286527514231499,Washington,Tennessee
+47187,2562,302,Large fringe metro,0.11787665886026542,Williamson,Tennessee
+47189,2207,260,Large fringe metro,0.11780697779791573,Wilson,Tennessee
+48001,1249,180,Micropolitan,0.14411529223378702,Anderson,Texas
+48005,2577,493,Micropolitan,0.19130772215754754,Angelina,Texas
+48013,855,143,Large fringe metro,0.1672514619883041,Atascosa,Texas
+48027,7039,1055,Medium metro,0.1498792442108254,Bell,Texas
+48029,39212,7242,Large central metro,0.18468836070590636,Bexar,Texas
+48037,3580,708,Small metro,0.19776536312849163,Bowie,Texas
+48039,4917,638,Large fringe metro,0.1297539149888143,Brazoria,Texas
+48041,3667,705,Small metro,0.19225524952277065,Brazos,Texas
+48049,1100,172,Micropolitan,0.15636363636363637,Brown,Texas
+48053,1020,139,Noncore,0.13627450980392156,Burnet,Texas
+48061,8226,2159,Medium metro,0.262460491125699,Cameron,Texas
+48073,988,158,Micropolitan,0.15991902834008098,Cherokee,Texas
+48085,14138,2056,Large central metro,0.14542368086009336,Collin,Texas
+48091,3193,479,Large fringe metro,0.1500156592546195,Comal,Texas
+48113,40062,5791,Large central metro,0.14455094603364785,Dallas,Texas
+48121,9456,1205,Large fringe metro,0.12743231810490693,Denton,Texas
+48135,3358,729,Small metro,0.2170935080405003,Ector,Texas
+48139,2741,376,Large fringe metro,0.13717621306092667,Ellis,Texas
+48141,15829,3413,Medium metro,0.2156169056794491,El Paso,Texas
+48157,7987,941,Large fringe metro,0.11781645173406786,Fort Bend,Texas
+48167,6188,865,Large fringe metro,0.13978668390433097,Galveston,Texas
+48181,4208,782,Small metro,0.18583650190114068,Grayson,Texas
+48183,4563,980,Small metro,0.21477098400175323,Gregg,Texas
+48187,2202,261,Large fringe metro,0.11852861035422343,Guadalupe,Texas
+48189,585,136,Micropolitan,0.23247863247863249,Hale,Texas
+48201,72879,10938,Large central metro,0.15008438644877126,Harris,Texas
+48209,2851,354,Large fringe metro,0.1241669589617678,Hays,Texas
+48213,1954,194,Micropolitan,0.0992835209825998,Henderson,Texas
+48215,13426,3419,Medium metro,0.25465514673022493,Hidalgo,Texas
+48221,1482,170,Large fringe metro,0.11470985155195682,Hood,Texas
+48223,998,180,Micropolitan,0.18036072144288579,Hopkins,Texas
+48231,2040,309,Large fringe metro,0.1514705882352941,Hunt,Texas
+48245,7511,1266,Medium metro,0.1685527892424444,Jefferson,Texas
+48249,750,116,Micropolitan,0.15466666666666667,Jim Wells,Texas
+48251,2244,218,Large fringe metro,0.09714795008912656,Johnson,Texas
+48257,1694,135,Large fringe metro,0.07969303423848878,Kaufman,Texas
+48265,1546,141,Micropolitan,0.09120310478654592,Kerr,Texas
+48277,1715,293,Micropolitan,0.17084548104956268,Lamar,Texas
+48303,8928,1925,Medium metro,0.21561379928315413,Lubbock,Texas
+48309,6140,1015,Medium metro,0.16530944625407165,McLennan,Texas
+48321,652,106,Micropolitan,0.16257668711656442,Matagorda,Texas
+48323,909,211,Micropolitan,0.23212321232123212,Maverick,Texas
+48329,2726,495,Small metro,0.18158473954512105,Midland,Texas
+48339,12250,1886,Large fringe metro,0.1539591836734694,Montgomery,Texas
+48347,1668,357,Micropolitan,0.21402877697841727,Nacogdoches,Texas
+48349,1012,170,Micropolitan,0.16798418972332016,Navarro,Texas
+48355,9037,1678,Medium metro,0.18568108885692156,Nueces,Texas
+48363,668,103,Micropolitan,0.15419161676646706,Palo Pinto,Texas
+48367,2048,203,Large fringe metro,0.09912109375,Parker,Texas
+48373,1186,110,Noncore,0.09274873524451939,Polk,Texas
+48375,5445,1267,Medium metro,0.23269054178145088,Potter,Texas
+48397,1973,404,Large fringe metro,0.20476431829700964,Rockwall,Texas
+48423,9309,1905,Small metro,0.2046406703190461,Smith,Texas
+48439,37118,6056,Large central metro,0.16315534242146668,Tarrant,Texas
+48441,4250,962,Small metro,0.2263529411764706,Taylor,Texas
+48449,750,116,Micropolitan,0.15466666666666667,Titus,Texas
+48451,3108,568,Small metro,0.18275418275418276,Tom Green,Texas
+48453,15463,1948,Large central metro,0.12597814136972127,Travis,Texas
+48465,709,123,Micropolitan,0.17348377997179126,Val Verde,Texas
+48469,2640,601,Small metro,0.22765151515151516,Victoria,Texas
+48471,1046,138,Micropolitan,0.13193116634799235,Walker,Texas
+48479,4067,1040,Medium metro,0.25571674452913695,Webb,Texas
+48485,3890,704,Small metro,0.18097686375321337,Wichita,Texas
+48491,7897,1006,Large fringe metro,0.12739014815752817,Williamson,Texas
+48497,1471,243,Large fringe metro,0.16519374575118967,Wise,Texas
+49011,3937,250,Medium metro,0.063500127000254,Davis,Utah
+49035,17607,1733,Large central metro,0.09842676208326234,Salt Lake,Utah
+49049,6398,732,Medium metro,0.11441075336042514,Utah,Utah
+49053,3902,477,Small metro,0.12224500256278831,Washington,Utah
+49057,4394,433,Medium metro,0.09854346836595357,Weber,Utah
+51003,2133,153,Small metro,0.07172995780590717,Albemarle,Virginia
+51013,2974,373,Large central metro,0.1254203093476799,Arlington,Virginia
+51015,2084,230,Small metro,0.11036468330134357,Augusta,Virginia
+51041,5544,453,Large fringe metro,0.0817099567099567,Chesterfield,Virginia
+51059,11717,1154,Large fringe metro,0.0984893744132457,Fairfax,Virginia
+51073,1040,108,Large fringe metro,0.10384615384615385,Gloucester,Virginia
+51083,997,134,Noncore,0.13440320962888666,Halifax,Virginia
+51085,3059,361,Large fringe metro,0.11801242236024845,Hanover,Virginia
+51087,7801,866,Large fringe metro,0.1110114087937444,Henrico,Virginia
+51107,3670,305,Large fringe metro,0.08310626702997276,Loudoun,Virginia
+51121,1736,194,Small metro,0.11175115207373272,Montgomery,Virginia
+51153,3772,356,Large fringe metro,0.09437963944856839,Prince William,Virginia
+51165,1915,282,Small metro,0.1472584856396867,Rockingham,Virginia
+51171,940,104,Noncore,0.11063829787234042,Shenandoah,Virginia
+51185,1184,104,Micropolitan,0.08783783783783784,Tazewell,Virginia
+51191,1531,189,Medium metro,0.12344872632266493,Washington,Virginia
+51199,1136,109,Large fringe metro,0.09595070422535211,York,Virginia
+51510,1906,229,Large central metro,0.12014690451206715,Alexandria city,Virginia
+51540,2396,234,Small metro,0.09766277128547579,Charlottesville city,Virginia
+51550,3928,309,Large fringe metro,0.07866598778004073,Chesapeake city,Virginia
+51590,1830,242,Micropolitan,0.13224043715846995,Danville city,Virginia
+51630,1924,215,Large fringe metro,0.11174636174636175,Fredericksburg city,Virginia
+51650,2619,234,Large fringe metro,0.08934707903780069,Hampton city,Virginia
+51670,853,128,Large fringe metro,0.15005861664712777,Hopewell city,Virginia
+51680,3606,583,Medium metro,0.16167498613422074,Lynchburg city,Virginia
+51683,1053,224,Large fringe metro,0.2127255460588794,Manassas city,Virginia
+51690,1034,224,Micropolitan,0.21663442940038685,Martinsville city,Virginia
+51700,4395,416,Large fringe metro,0.09465301478953356,Newport News city,Virginia
+51710,6246,575,Large central metro,0.0920589177073327,Norfolk city,Virginia
+51730,1814,249,Large fringe metro,0.1372657111356119,Petersburg city,Virginia
+51740,2378,245,Large fringe metro,0.1030277544154752,Portsmouth city,Virginia
+51760,6904,631,Large central metro,0.09139629200463499,Richmond city,Virginia
+51770,5227,602,Medium metro,0.11517122632485173,Roanoke city,Virginia
+51775,1901,252,Medium metro,0.13256180957390848,Salem city,Virginia
+51800,2107,343,Large fringe metro,0.16279069767441862,Suffolk city,Virginia
+51810,7001,468,Large central metro,0.06684759320097129,Virginia Beach city,Virginia
+51840,2510,405,Small metro,0.16135458167330677,Winchester city,Virginia
+50007,3460,161,Small metro,0.04653179190751445,Chittenden,Vermont
+53005,4061,530,Medium metro,0.1305097266683083,Benton,Washington
+53007,2032,231,Small metro,0.11368110236220473,Chelan,Washington
+53011,8588,611,Large fringe metro,0.07114578481602235,Clark,Washington
+53015,2670,187,Small metro,0.0700374531835206,Cowlitz,Washington
+53021,707,129,Medium metro,0.18246110325318246,Franklin,Washington
+53025,1314,116,Micropolitan,0.0882800608828006,Grant,Washington
+53033,30793,2185,Large central metro,0.07095768518819212,King,Washington
+53035,4294,214,Medium metro,0.04983698183511877,Kitsap,Washington
+53041,1681,111,Micropolitan,0.0660321237358715,Lewis,Washington
+53053,15983,1107,Large fringe metro,0.06926108990802728,Pierce,Washington
+53057,2739,143,Small metro,0.05220883534136546,Skagit,Washington
+53061,11383,657,Large fringe metro,0.05771764912588948,Snohomish,Washington
+53063,12054,1250,Medium metro,0.10370001659200266,Spokane,Washington
+53067,5377,333,Medium metro,0.061930444485772736,Thurston,Washington
+53071,1345,112,Small metro,0.08327137546468401,Walla Walla,Washington
+53073,3859,198,Small metro,0.05130862917854367,Whatcom,Washington
+53077,4487,584,Small metro,0.1301537775796746,Yakima,Washington
+55009,5764,630,Medium metro,0.10929909784871616,Brown,Wisconsin
+55025,9459,709,Medium metro,0.07495506924622053,Dane,Wisconsin
+55027,1853,221,Micropolitan,0.11926605504587157,Dodge,Wisconsin
+55035,2760,306,Small metro,0.1108695652173913,Eau Claire,Wisconsin
+55039,2203,213,Small metro,0.09668633681343622,Fond du Lac,Wisconsin
+55059,3330,473,Large fringe metro,0.14204204204204204,Kenosha,Wisconsin
+55063,3210,350,Small metro,0.10903426791277258,La Crosse,Wisconsin
+55071,1556,104,Micropolitan,0.06683804627249357,Manitowoc,Wisconsin
+55073,3407,456,Small metro,0.13384208981508658,Marathon,Wisconsin
+55079,20846,1903,Large central metro,0.0912884965940708,Milwaukee,Wisconsin
+55085,1096,115,Noncore,0.10492700729927007,Oneida,Wisconsin
+55087,3702,472,Small metro,0.12749864937871422,Outagamie,Wisconsin
+55089,2300,253,Large fringe metro,0.11,Ozaukee,Wisconsin
+55101,3590,407,Small metro,0.11337047353760446,Racine,Wisconsin
+55105,3432,275,Small metro,0.08012820512820513,Rock,Wisconsin
+55117,2458,249,Small metro,0.10130187144019528,Sheboygan,Wisconsin
+55127,1735,145,Micropolitan,0.08357348703170028,Walworth,Wisconsin
+55131,2263,180,Large fringe metro,0.07954043305346885,Washington,Wisconsin
+55133,7696,869,Large fringe metro,0.11291580041580042,Waukesha,Wisconsin
+55135,1240,138,Noncore,0.11129032258064517,Waupaca,Wisconsin
+55139,3635,348,Small metro,0.09573590096286107,Winnebago,Wisconsin
+55141,2687,288,Micropolitan,0.10718273167100856,Wood,Wisconsin
+54003,2109,202,Medium metro,0.09577999051683263,Berkeley,West Virginia
+54009,915,183,Small metro,0.2,Brooke,West Virginia
+54011,4544,510,Medium metro,0.11223591549295775,Cabell,West Virginia
+54025,1024,108,Noncore,0.10546875,Greenbrier,West Virginia
+54033,2171,252,Micropolitan,0.11607554122524183,Harrison,West Virginia
+54039,6836,716,Small metro,0.10473961380924517,Kanawha,West Virginia
+54045,993,123,Micropolitan,0.12386706948640483,Logan,West Virginia
+54055,1800,181,Micropolitan,0.10055555555555555,Mercer,West Virginia
+54061,4126,668,Small metro,0.1619001454192923,Monongalia,West Virginia
+54069,2268,327,Small metro,0.14417989417989419,Ohio,West Virginia
+54081,2985,254,Small metro,0.08509212730318258,Raleigh,West Virginia
+54107,2370,286,Small metro,0.12067510548523207,Wood,West Virginia
+56005,602,105,Micropolitan,0.1744186046511628,Campbell,Wyoming
+56021,2086,251,Small metro,0.12032598274209012,Laramie,Wyoming
+56025,2114,331,Small metro,0.15657521286660359,Natrona,Wyoming
